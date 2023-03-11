@@ -1,0 +1,189 @@
+﻿TUTORIAL PAGINA CON TAILWIND CSS
+* https://www.youtube.com/watch?v=VbYEtvXroqE
+
+
+TEORIA FUNCIONES ARRAYS JS 
+* https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+
+
+FLEX BOX EN 15 MIN: COMO APRENDER A ORGANIZAR LOS ELEMENTOS EN LA PÁGINA WEB: 
+* https://www.youtube.com/watch?v=QFXSgGg-HWo
+
+
+COMO HACER UN ENCABEZADO RESPONSIVE CON HTML Y CSS
+* https://www.youtube.com/watch?v=OuoLQiXPitk
+
+
+IDEAS DE PROYECTOS FACILES DE HTML, CSS Y JAVASCRIPT
+* https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s
+
+
+HTML TUTORIALES
+* https://www.w3schools.com/html/html_layout.asp
+
+
+ELEMENTOS SEMÁNTICOS DE HTML (HEADER,FOOTER, NAV ETC)
+* https://www.youtube.com/watch?v=FeXpLU515AI
+* https://www.youtube.com/watch?v=iTgp2L5CHdo
+
+
+PAGINAS PARA ETIQUETAS HTML:
+* https://developer.mozilla.org/es/docs/Web/HTML/Element/span
+PAGINA PARA BUSCAR TEORIA SOBRE HTML Y JAVASCRIPT:
+* https://www.freecodecamp.org/espanol/news
+
+
+CSS TUTORIALES:
+* https://www.w3schools.com/css/css_boxmodel.asp
+EXPLICACIÓN POSITION:
+* https://www.youtube.com/watch?v=1F_Q5NQBkyU
+
+
+
+
+JAVASCRIPT TUTORIALES:
+* https://www.w3schools.com/js/js_syntax.asp
+
+
+COMO GENERAR UN NÚMERO ENTERO ALEATORIO ENTRE UN RANGO EN JAVASCRI
+* https://www.youtube.com/watch?v=RETMZVk-EFw
+
+
+CURSOS JAVA SCRIPT HTML Y CSS GRATIS
+* https://campus.open-bootcamp.com
+
+
+VIDEO COMANDOS Y TEORÍA DE GIT
+* https://www.youtube.com/watch?v=2mxh3tgx71c
+BOTONES ANIMADOS
+* https://www.youtube.com/watch?v=c-4wFMGFuCg
+
+
+
+
+
+
+
+
+
+
+
+
+COMANDOS GIT
+* https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-debe-conocer/.
+
+
+
+
+PÁGINAS DE ELEMENTOS PARA DISEÑAR PÁGINAS WEB:        
+
+
+ICONOS
+* https://fontawesome.com
+COLORES (DEGRADADOS)
+* https://webgradients.com
+FUENTES/ICONOS(GOOGLE FONTS)
+* https://fonts.google.com/knowledge
+
+
+CÓMO IMPORTAR FUENTES DESDE GOOGLE FONTS
+* https://www.youtube.com/watch?v=2PIDldvi_jU
+
+
+BOCETOS PÁGINAS WEB
+* https://www.figma.com
+
+
+QUITAR FONDO A IMÁGENES
+* https://es.clippingmagic.com/pricing?id=142757478&hs=b34531b982fcdee98679663b7d137f5610fb1d02
+
+
+SVG DE OLAS
+* https://getwaves.io
+
+
+
+
+PAGINA PARA RETOS DE HTML CSS Y JS 
+* https://www.frontendmentor.io/challenges
+
+
+
+
+
+
+EXTENSIONES VISUAL STUDIO:
+* AUTO RENAME TAG: CIERRA  AUTOMÁTICAMENTE LAS ETIQUETA HTML
+* VSCODE ICONS: MUESTRA ICONOS PARA LOS ARCHIVOS (HTML, CSS, JS, JSX ETC…)
+* PRETTIER CODE FORMATTER
+* LIVE SERVER: ABRE UN SERVER LOCAL PARA VER LOS CAMBIOS EN LA PÁGINA SIN TENER QUE RECARGAR 
+
+
+
+
+
+
+EJEMPLO DE COMO HACER UNA GALERÍA CON GRID:
+* https://www.youtube.com/watch?v=GaEuNyFFxQ4&t=317s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTRUCTURA PÁGINA HTML
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTRUCTURA DE UN CONTENEDOR HTML
+  
+
+
+
+IMPORTANTE: COMO HACER QUE EL BODY Y CUALQUIER ETIQUETA OCUPE TODA LA PANTALLA
+* 1)https://desarrolloweb.com/faq/css-height-100 : Esta forma es la más sencilla pero no se si sea las mas optima o correcta(usa la medida vh(viewport))
+* 2)https://www.freecodecamp.org/espanol/news/html-vs-body-como-configurar-el-ancho-y-el-alto-para-el-tamano-de-la-pagina-completa/ : Esta es la forma mas larga se configrua el body y el elemento html el cual contiene a todos los demas elementos incluido el body
+* EXPLICACIÓN DE HEIGTH:100%: (Hola amigo eso se debe a que el height 100% ocupa el 100% de la altura al cargar tu web al dar scroll eso se queda donde se cargo la web nada mas….. En el css agregas min-height para que a medida que des scroll el gris se mueva espero te sirva.)
+* https://es.stackoverflow.com/questions/210529/como-hacer-para-que-container-ocupe-100-del-height-de-la-pantalla
+
+
+INVESTIGAR:
+* QUERYSELECTOR Y QUERYSELECTORALL(es como el getElementById pero mejor) 
+* FUNCIÓN FOREACH(tiene que ver con arreglos).
