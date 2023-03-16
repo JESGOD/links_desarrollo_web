@@ -5,6 +5,9 @@
 TEORIA FUNCIONES ARRAYS JS 
 * https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
 
+HOOKS EN REACT PARA PODER USAR JS 
+*QUE ES USEREF?
+  *https://dev.to/duxtech/como-rayos-funciona-el-hook-useref-en-react-2lah
 
 FLEX BOX EN 15 MIN: COMO APRENDER A ORGANIZAR LOS ELEMENTOS EN LA PÁGINA WEB: 
 * https://www.youtube.com/watch?v=QFXSgGg-HWo
