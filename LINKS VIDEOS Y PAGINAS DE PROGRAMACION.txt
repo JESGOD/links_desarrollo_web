@@ -1,6 +1,9 @@
 ﻿TUTORIAL PAGINA CON TAILWIND CSS
 * https://www.youtube.com/watch?v=VbYEtvXroqE
 
+EXPRESIONES REGULARES 
+*https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
 OPERADORES DE CORTO CIRCUITO MUY IMPORTANTE TENERLOS EN CUENTA(JONMIRCHAN YOUTUIBE CURSO JS)
 *https://www.youtube.com/watch?v=SK7CCXjzVgA&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&index=30
 
