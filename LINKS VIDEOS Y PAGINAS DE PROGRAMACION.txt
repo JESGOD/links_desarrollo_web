@@ -87,6 +87,8 @@ PÁGINAS DE ELEMENTOS PARA DISEÑAR PÁGINAS WEB:
 
 
 ICONOS
+*Tabler Icons: https://tablericons.com
+*Hero icons: https://heroicons.com
 * https://fontawesome.com
 COLORES (DEGRADADOS)
 * https://webgradients.com
@@ -185,6 +187,12 @@ ESTRUCTURA DE UN CONTENEDOR HTML
 
 
 
+ETIQUETAS HTML
+* <section> se usa para encerrar las secciones de la pagina web, si hay un <h> se debe usar la etiqueta section para encerrar esa seccion
+* <div> se usa siempre y cuando no se cumplan ninguna de las condiciones par usar una etiqueta diferente,(section, main,article etc...)
+* <form> parea formularios
+* <fieldset> El elemento fieldset (grupo de campos) permite organizar en grupos los campos de un formulario.
+* <legend> crea un título para el fieldset es decir para el grupo de campos del formulario
 IMPORTANTE: COMO HACER QUE EL BODY Y CUALQUIER ETIQUETA OCUPE TODA LA PANTALLA
 * 1)https://desarrolloweb.com/faq/css-height-100 : Esta forma es la más sencilla pero no se si sea las mas optima o correcta(usa la medida vh(viewport))
 * 2)https://www.freecodecamp.org/espanol/news/html-vs-body-como-configurar-el-ancho-y-el-alto-para-el-tamano-de-la-pagina-completa/ : Esta es la forma mas larga se configrua el body y el elemento html el cual contiene a todos los demas elementos incluido el body
