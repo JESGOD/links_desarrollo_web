@@ -111,8 +111,11 @@ QUITAR FONDO A IMÁGENES
 SVG DE OLAS
 * https://getwaves.io
 
+GRADIENTES, BORDES Y BOX SHADOW GENERATOR
+*https://www.cssmatic.com
 
-
+VERIFICAR SOPORTE DE NAVEGADORES WEB PARA CODIGO CSS
+* https://caniuse.com
 
 PAGINA PARA RETOS DE HTML CSS Y JS 
 * https://www.frontendmentor.io/challenges
@@ -203,3 +206,4 @@ IMPORTANTE: COMO HACER QUE EL BODY Y CUALQUIER ETIQUETA OCUPE TODA LA PANTALLA
 INVESTIGAR:
 * QUERYSELECTOR Y QUERYSELECTORALL(es como el getElementById pero mejor) 
 * FUNCIÓN FOREACH(tiene que ver con arreglos).
+
