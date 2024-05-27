@@ -120,7 +120,8 @@ VERIFICAR SOPORTE DE NAVEGADORES WEB PARA CODIGO CSS
 PAGINA PARA RETOS DE HTML CSS Y JS 
 * https://www.frontendmentor.io/challenges
 
-
+SERVIDOR PARA PUBLICAR PAGINAS TERMINADAS 
+*https://www.netlify.com
 
 
 
@@ -196,11 +197,17 @@ ETIQUETAS HTML
 * <form> parea formularios
 * <fieldset> El elemento fieldset (grupo de campos) permite organizar en grupos los campos de un formulario.
 * <legend> crea un título para el fieldset es decir para el grupo de campos del formulario
+
+NOTAS CUROS UDEMY
+*grid: para crear las comunas/filas se usa grid-templpate-columns/rows y para posicionar los elementos se usa grid-colum/row
+
+
 IMPORTANTE: COMO HACER QUE EL BODY Y CUALQUIER ETIQUETA OCUPE TODA LA PANTALLA
 * 1)https://desarrolloweb.com/faq/css-height-100 : Esta forma es la más sencilla pero no se si sea las mas optima o correcta(usa la medida vh(viewport))
 * 2)https://www.freecodecamp.org/espanol/news/html-vs-body-como-configurar-el-ancho-y-el-alto-para-el-tamano-de-la-pagina-completa/ : Esta es la forma mas larga se configrua el body y el elemento html el cual contiene a todos los demas elementos incluido el body
 * EXPLICACIÓN DE HEIGTH:100%: (Hola amigo eso se debe a que el height 100% ocupa el 100% de la altura al cargar tu web al dar scroll eso se queda donde se cargo la web nada mas….. En el css agregas min-height para que a medida que des scroll el gris se mueva espero te sirva.)
 * https://es.stackoverflow.com/questions/210529/como-hacer-para-que-container-ocupe-100-del-height-de-la-pantalla
+
 
 
 INVESTIGAR:
